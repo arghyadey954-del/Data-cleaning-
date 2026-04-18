@@ -1,0 +1,6 @@
+Order_ID,Customer_Name,Quantity,Price,City,Total
+1001,Arghya,1.0,50000.0,Kolkata,50000.0
+1002,Rahul,2.0,20000.0,Delhi,40000.0
+1003,Unknown,1.0,15000.0,Mumbai,15000.0
+1004,Sneha,1.0,55000.0,Not Available,55000.0
+1005,Amit,2.0,0.0,Chennai,0.0

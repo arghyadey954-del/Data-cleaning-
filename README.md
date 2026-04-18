@@ -1,2 +1,13 @@
-# Data-cleaning-
-This project focuses on basic data cleaning using Python (Pandas).  It includes handling missing values, removing duplicate rows,  and creating a new feature (Total column) for analysis.  This project is designed for beginners to understand real-world data preprocessing.
+# Beginner Data Cleaning Project
+
+This is a simple data cleaning project using Python and Pandas.
+
+## Steps:
+- Loaded dataset
+- Removed duplicate rows
+- Filled missing values
+- Created new column (Total)
+
+## Tools:
+- Python
+- Pandas
